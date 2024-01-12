@@ -1,0 +1,44 @@
+_repo: The-smart-ones_72440
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Schelling, George
+    aliases:
+    - Schelling, George Luther
+    - Schelling, George L.
+    - Schelling
+    birthdate: 1938
+    gutenberg_agent_id: '25425'
+    url: http://www.gutenberg.org/2009/agents/25425
+creator:
+  author:
+    agent_name: Sharkey, Jack
+    alias: Sharkey, John Michael
+    birthdate: 1931
+    deathdate: 1992
+    gutenberg_agent_id: '32269'
+    url: http://www.gutenberg.org/2009/agents/32269
+    wikipedia: https://en.wikipedia.org/wiki/Jack_Sharkey_(playwright)
+description: ''
+gutenberg_issued: '2023-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72440'
+language: en
+pgterms:marc905: 20231124044158sharkey
+pgterms:marc906: '1963'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bZiff-Davis Publishing Company, $c1963.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Apocalyptic fiction'
+- !lcc 'PS'
+- GITenberg
+title: The smart ones
+url: http://www.gutenberg.org/ebooks/72440
