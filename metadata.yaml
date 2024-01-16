@@ -10,6 +10,9 @@ contributor:
     birthdate: 1938
     gutenberg_agent_id: '25425'
     url: http://www.gutenberg.org/2009/agents/25425
+covers:
+- cover_type: archival
+  image_path: 72440-h/images/cover.jpg
 creator:
   author:
     agent_name: Sharkey, Jack
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32269
     wikipedia: https://en.wikipedia.org/wiki/Jack_Sharkey_(playwright)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72440#The-smart-ones
 gutenberg_issued: '2023-12-17'
 gutenberg_type: Text
 identifiers:
